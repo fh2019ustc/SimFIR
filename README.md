@@ -12,8 +12,17 @@ The official code for “[SimFIR: A Simple Framework for Fisheye Image Rectifica
 ![image](https://github.com/fh2019ustc/SimFIR/assets/50725551/1cb83f12-5f2e-4347-81af-ef68e4c0c468)
 
 
-## Dataset
+## Dataset Introduction
 
+This repository contains the [dataset](https://pan.baidu.com/s/1nNtVsPIsBNz73rVUk1H53g?pwd=2npm) organized into two main directories:
+- **images**: Contains distorted image files.
+- **flow**: Stores the warping flow files.
+
+Each of these directories further comprises two sub-directories:
+- **train**: For training data.
+- **test**: For testing data.
+
+Click [here](https://pan.baidu.com/s/1nNtVsPIsBNz73rVUk1H53g?pwd=2npm) to access the dataset.
 
 ## Inference 
 1. Put the pre-trained model to `$ROOT/model_pretrained/`.

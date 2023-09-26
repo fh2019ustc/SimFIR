@@ -1,11 +1,7 @@
 # SimFIR
-The official code for “SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning”, ICCV, 2023.
+The official code for “[SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning](https://arxiv.org/pdf/2308.09040.pdf)”, ICCV, 2023.
 
 <img width="617" alt="image" src="https://github.com/fh2019ustc/SimFIR/assets/50725551/c85184da-7641-4f3a-b9b0-dbe89a6ab787">
-
-
-> [SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning](https://arxiv.org/pdf/2308.09040.pdf) 
-> ICCV 2023
 
 
 ## 🚀 Demo [(Link)]
@@ -16,6 +12,8 @@ The official code for “SimFIR: A Simple Framework for Fisheye Image Rectificat
 
 [![Alt text](https://user-images.githubusercontent.com/50725551/232952015-15508ad6-e38c-475b-bf9e-91cb74bc5fea.png)](https://demo.doctrp.top/)
 
+## Dataset
+
 
 ## Inference 
 1. Put the pre-trained model to `$ROOT/model_pretrained/`.
@@ -24,3 +22,4 @@ The official code for “SimFIR: A Simple Framework for Fisheye Image Rectificat
     ```
     python inference.py
     ```
+   

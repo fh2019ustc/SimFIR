@@ -31,4 +31,17 @@ Click [here](https://pan.baidu.com/s/1nNtVsPIsBNz73rVUk1H53g?pwd=2npm) to access
     ```
     python inference.py
     ```
+
+## Citation
+
+If you find this code useful for your research, please use the following BibTeX entry.
+
+```
+@inproceedings{feng2023simfir,
+  title={SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning},
+  author={Feng, Hao and Wang, Wendi and Deng, Jiajun and Zhou, Wengang and Li, Li and Li, Houqiang},
+  booktitle={Proceedings of the International Conference on Computer Vision},
+  year={2023}
+}
+```
    

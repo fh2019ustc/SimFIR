@@ -1,4 +1,10 @@
 # SimFIR
+
+<p>
+    <a href='https://arxiv.org/pdf/2308.09040.pdf' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://simfir.doctrp.top:20443/' target="_blank"><img src='https://img.shields.io/badge/Online-Demo-green'></a>
+</p>
+
 The official code for “[SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning](https://arxiv.org/pdf/2308.09040.pdf)”, ICCV, 2023.
 
 <img width="617" alt="image" src="https://github.com/fh2019ustc/SimFIR/assets/50725551/c85184da-7641-4f3a-b9b0-dbe89a6ab787">

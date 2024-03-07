@@ -44,9 +44,10 @@ If you find this code useful for your research, please use the following BibTeX 
 
 ```
 @inproceedings{feng2023simfir,
-  title={SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning},
+  title={Simfir: A simple framework for fisheye image rectification with self-supervised representation learning},
   author={Feng, Hao and Wang, Wendi and Deng, Jiajun and Zhou, Wengang and Li, Li and Li, Houqiang},
-  booktitle={Proceedings of the International Conference on Computer Vision},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12418--12427},
   year={2023}
 }
 ```

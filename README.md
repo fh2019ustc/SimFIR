@@ -31,7 +31,7 @@ Each of these directories further comprises two sub-directories:
 Click [here](https://pan.baidu.com/s/1nNtVsPIsBNz73rVUk1H53g?pwd=2npm) to access the dataset.
 
 ## Inference 
-1. Put the pre-trained model to `$ROOT/model_pretrained/`.
+1. Put the [pre-trained model](https://drive.google.com/file/d/11YYPZ_z7-YoduHRdlMhy6u_km25f-Y8h/view?usp=drive_link) to `$ROOT/model_pretrained/`.
 2. Put the distorted images in `$ROOT/distorted/`.
 3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
     ```
